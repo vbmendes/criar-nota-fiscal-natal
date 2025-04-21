@@ -1,0 +1,17 @@
+data: 2025-04-01
+tomador:
+  razao_social: "Hernandez-Williams"
+  endereco: "123 Williams Expressway, Josemouth, PW 31548"
+  numero: "123"
+  complemento: "Apt. 783"
+  municipio: "EXTERIOR"
+  uf: "EX"
+natureza_operação: "Imunidade"
+item_da_lista_de_servico: "1.01 - ANÁLISE" # Início da opção do item na lista de serviços que permita distinguir unicamente
+cnae: "62.01-5/01" # CNAE exatamente como aparece no select do site
+items:
+  - descricao: "Desenvolvimento de programas de computador sob encomenda."
+    valor_unitario: 5132.45
+    quantidade: 1
+iss_retido: false
+outras_informacoes: "Pagamento realizado via PIX para a conta X da agência Y do Banco Z (000)"

@@ -1,0 +1,6 @@
+dotenv
+pydantic
+pyyaml
+requests
+selenium
+typer
