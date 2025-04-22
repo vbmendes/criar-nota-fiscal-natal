@@ -19,7 +19,7 @@ Este script foi testado em uma máquina rodando Python 13 no MacOS X 15.
 - Python
 - Google Chrome
 
-Recomendo utilizar asdf para gestão de versões do python. Esse repositório já fornece o `.tool-versions` correto.
+Recomendo utilizar [asdf](https://asdf-vm.com/) para gestão de versões do python. Esse repositório já fornece o `.tool-versions` correto.
 
 Também é disponibilizado o `.direnv`. Mais informações em: https://direnv.net/
 
